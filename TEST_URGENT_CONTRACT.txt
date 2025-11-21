@@ -1,0 +1,36 @@
+SERVICE AGREEMENT
+
+This Service Agreement is entered into on November 20, 2025, between:
+
+Provider: Tech Services Inc.
+Client: ABC Corporation
+
+1. SERVICES
+Provider will deliver software development services as specified in this agreement.
+
+2. TERM
+This agreement shall commence on January 1, 2025 and shall expire on November 25, 2025.
+
+3. PAYMENT
+Client shall pay Provider $50,000 per month, due on the 1st of each month.
+
+4. RENEWAL
+This agreement may be renewed by mutual written consent. Notice of renewal must be given at least 30 days before expiration.
+
+5. TERMINATION
+Either party may terminate this agreement with 30 days written notice.
+
+6. AUDIT
+Client reserves the right to audit Provider's records. Any audit must be completed by November 22, 2025.
+
+IMPORTANT DEADLINES:
+- Contract expires: November 25, 2025 (5 days from now)
+- Audit deadline: November 22, 2025 (2 days from now)
+- Next payment due: December 1, 2025
+
+Signed:
+Tech Services Inc.                    ABC Corporation
+_________________                    _________________
+Date: November 20, 2025              Date: November 20, 2025
+
+

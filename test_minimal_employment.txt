@@ -1,0 +1,41 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on November 21, 2025, between ABC Company ("Employer") and John Doe ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Software Engineer. Employee shall perform all duties assigned by Employer.
+
+2. COMPENSATION
+Employee shall receive a salary of $100,000 per year, payable bi-weekly.
+
+3. TERM
+This Agreement shall commence on December 1, 2025 and continue until terminated by either party.
+
+4. TERMINATION
+Either party may terminate this Agreement at any time, with or without cause, with 2 weeks notice.
+
+5. CONFIDENTIALITY
+Employee agrees to maintain confidentiality of all proprietary information during and after employment.
+
+6. NON-COMPETE
+Employee agrees not to work for competing companies for a period of 12 months after termination.
+
+7. ARBITRATION
+All disputes shall be resolved through binding arbitration. Employee waives right to jury trial.
+
+8. INTELLECTUAL PROPERTY
+All work product created by Employee during employment shall be the exclusive property of Employer.
+
+9. AT-WILL EMPLOYMENT
+This Agreement does not guarantee employment for any specific period. Employment is at-will.
+
+10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+ABC Company
+_________________________
+John Doe
+
+

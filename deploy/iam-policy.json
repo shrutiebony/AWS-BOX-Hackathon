@@ -1,0 +1,32 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "secretsmanager:GetSecretValue",
+        "secretsmanager:DescribeSecret"
+      ],
+      "Resource": "arn:aws:secretsmanager:*:*:secret:contract-protection-system/*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "sns:Publish",
+        "sns:Subscribe",
+        "sns:ListSubscriptionsByTopic"
+      ],
+      "Resource": "arn:aws:sns:*:*:contract-action-items"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+      ],
+      "Resource": "arn:aws:logs:*:*:*"
+    }
+  ]
+}
+

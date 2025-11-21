@@ -1,0 +1,61 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on December 1, 2025, between TechStart Innovations Inc. ("Company") and John Smith ("Employee").
+
+TERM OF EMPLOYMENT:
+The term of this Agreement shall commence on December 15, 2025, and shall continue for a period of 36 months, unless terminated earlier in accordance with the provisions of this Agreement.
+
+POSITION AND DUTIES:
+Employee shall serve as Senior Software Engineer. Employee agrees to devote his full business time and attention to the performance of his duties and to use his best efforts to advance the interests of the Company.
+
+COMPENSATION:
+Employee shall receive an annual base salary of $120,000, payable in accordance with the Company's standard payroll practices. Employee shall also be eligible for an annual performance bonus of up to 20% of base salary, at the discretion of the Company.
+
+NON-COMPETE CLAUSE:
+Employee agrees that during the term of this Agreement and for a period of 24 months following termination, Employee shall not, directly or indirectly, engage in any business activity that competes with the Company's business in any geographic location where the Company operates. This restriction applies to all industries and business activities.
+
+NON-SOLICITATION:
+Employee agrees not to solicit, recruit, or hire any employees, contractors, or clients of the Company for a period of 18 months following termination of employment.
+
+INTELLECTUAL PROPERTY:
+All work, inventions, discoveries, improvements, and intellectual property created by Employee during the term of employment, whether during business hours or personal time, shall be the exclusive property of the Company. Employee hereby assigns all rights, title, and interest in such work to the Company, without any additional compensation.
+
+CONFIDENTIALITY:
+Employee agrees to maintain the confidentiality of all proprietary information, trade secrets, and confidential data of the Company, both during and after the term of employment, for an indefinite period.
+
+TERMINATION:
+Either party may terminate this Agreement at any time with 90 days written notice. Company may terminate this Agreement immediately for cause, including but not limited to: breach of this Agreement, violation of Company policies, or engagement in activities harmful to the Company's interests.
+
+SEVERANCE:
+Upon termination by Company without cause, Employee shall receive severance equal to 2 weeks of salary per year of service, with a minimum of 4 weeks. No severance shall be paid if Employee terminates the Agreement or if termination is for cause.
+
+PAID TIME OFF:
+Employee shall be entitled to 15 days of paid time off per calendar year, which must be used within the calendar year and cannot be carried over.
+
+HEALTH INSURANCE:
+Company shall provide health insurance coverage for Employee and eligible dependents, with Employee contributing 30% of the premium cost.
+
+RETIREMENT BENEFITS:
+Employee shall be eligible to participate in the Company's 401(k) plan after 12 months of employment, with Company matching contributions up to 3% of Employee's salary.
+
+EXPENSES:
+Employee shall be reimbursed for reasonable business expenses incurred in the performance of his duties, subject to Company's expense reimbursement policies.
+
+GOVERNING LAW:
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+DISPUTE RESOLUTION:
+Any disputes arising under this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+ENTIRE AGREEMENT:
+This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral.
+
+This Agreement expires on December 14, 2028, unless renewed or terminated earlier in accordance with its terms.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TechStart Innovations Inc.                    John Smith
+_________________________                    _________________
+By: CEO                                       Employee
+
+Date: December 1, 2025                        Date: December 1, 2025
