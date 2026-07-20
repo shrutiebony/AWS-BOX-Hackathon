@@ -122,7 +122,7 @@ For each contract, generates three comprehensive documents:
 
 ```bash
 git pull 
-cd ContractGuardAI
+cd AWS-BOC-Hackathon
 ```
 
 ### Step 2: Install Dependencies
