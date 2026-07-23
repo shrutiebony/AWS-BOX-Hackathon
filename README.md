@@ -1,4 +1,4 @@
-# 🛡️ ContractGuardAI
+# 🛡️ AWS-BOX Hackathon Projects - An agentic guard for Contracts!
 
 > AI-powered contract protection system that automatically monitors Box storage, analyzes contracts using AWS Bedrock \\\& Box AI, and generates protected mirror contracts with comparison documents and negotiation guides.
 
