@@ -1,5 +1,7 @@
 # 🛡️ AWS-BOX Hackathon Projects - An agentic guard for Contracts!
 
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7404317672013881344/
+
 > AI-powered contract protection system that automatically monitors Box storage, analyzes contracts using AWS Bedrock \\\& Box AI, and generates protected mirror contracts with comparison documents and negotiation guides.
 
 [!\[Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
